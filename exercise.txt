@@ -1,0 +1,32 @@
+1)Write a program to accept height from user as float value(foot.inch). display message "you are short" if height is less then 5 foot 
+
+2) write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
+
+3)write a program to accept one letter from user. if letter is (a) then print message "it is first letter of abcd".aut
+
+
+only if
+------------------------
+//Write a programe to print you are eligible for voting if user's age is greater or equal to 18 take age as input from user 
+
+
+// Write a programe to body temperature from user and print you are normal if temperature is below 100
+
+
+// Write a programe to find wether give two variable if first is greater or not 
+// a , b
+
+if with else 
+-------------------
+// Write a programe to find wether which variable is greater out of given 2 variable
+// a , b
+
+
+// Write a programe to findout which rectangle is smaller outof given 2 rectangle accept height and width from user
+
+
+// Write a programe to findout wether the given year is millineum year or not 
+//1000,2000,3000,4000....
+
+// Write a programe to findout wether the user given number is even or not
+
