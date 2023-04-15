@@ -30,3 +30,12 @@ if with else
 
 // Write a programe to findout wether the user given number is even or not
 
+// Write a programe to findout wether the user given number is even or not 
+
+//write a program to accept one letter from user. if letter is (a) then print message "it is first letter of abcd" "it is not first of abcd" if not a .
+
+
+// Write a programe to findout largest value out of given three values
+
+// Write a programe to findout whether the give alphabet is vowel or not 
+//a,e,i,o,u

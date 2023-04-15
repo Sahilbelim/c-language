@@ -14,22 +14,22 @@ void main()
     printf(" enter any value from a,s,m,d\n a for addition\n s for substrecsion \n m for multiplication \n d for division");
     printf(" enter value ");
     scanf("%c", &Char);
-    if(Char=='a')
+    if (Char == 'a' ||Char=='A')
     {
         result = num1 + num2;
         printf(" \nresult is %.2f", result);
     }
-    if(Char=='s')
+    if (Char == 's' || Char == 'S')
     {
         result = num1 - num2;
         printf(" \nresult is %.2f", result);
     }
-    if(Char=='m')
+    if (Char == 'm' || Char =='M')
     {
         result = num1 * num2;
         printf(" \nresult is %.2f", result);
     }
-    if(Char=='d')
+    if (Char == 'd' || Char=='D')
     {
         result = num1 / num2;
         printf(" \nresult is %.2f", result);
@@ -38,6 +38,6 @@ void main()
     {
         printf("invalid input");
     }
-   
+
     printf("\ngood bye");
 }

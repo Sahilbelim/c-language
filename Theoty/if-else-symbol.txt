@@ -16,3 +16,9 @@ operator
 != - not eqaul too
 >= - greater than equal too
 <= - less than eqaul to
+
+-----------------------------
+logical operators
+
+&& - AND operator
+|| - OR operator
