@@ -39,3 +39,10 @@ if with else
 
 // Write a programe to findout whether the give alphabet is vowel or not 
 //a,e,i,o,u
+
+
+// bmi condition
+Below 18.5	Underweight
+18.5 – 24.9	Healthy Weight
+25.0 – 29.9	Overweight
+30.0 and Above	Obesity
